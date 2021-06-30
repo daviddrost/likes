@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+ 
+}
+
+.mainLine{
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+    border:  2px solid gray;
+    font-size: 2em;
+
+}
+
+.Like{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.LikeButton{
+    background-color: red;
+    padding: 5px 10px;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    font-size: 1em;
+    cursor: pointer;
+}
